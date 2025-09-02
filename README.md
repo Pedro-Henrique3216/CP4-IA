@@ -1,6 +1,7 @@
 # Integrantes
 
 - Pedro Henrique dos Santos RM559064
+- Thiago Thomaz RM 557992
 
 -----------------------
 
