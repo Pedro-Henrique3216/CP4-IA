@@ -49,12 +49,12 @@ O consumo esta consentrado em valores baixos
 </text>
 		<text id="3" type="text/plain" rect="(501.0, 390.0, 307.0, 138.0)" font-family="Segoe UI" font-size="16">39: existe correlação visível?
 
-Não existe correlação. 
+Pelo grafico não consigo ver um correlação linear. 
 
 </text>
 		<text id="4" type="text/plain" rect="(548.0, 699.0, 513.0, 78.0)" font-family="Segoe UI" font-size="16">40: cada cluster representa um padrão distinto de consumo doméstico?
 
-Sim cada clustes representa um padrão distinto
+Sim cada clustes representa um atributo submettering com padrões distinto
 
 
 
